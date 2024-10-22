@@ -1,4 +1,5 @@
-spreGnssRtcLib	KEYWORD1
+spreGnssRtcLib	KEYWORD1	spreGnssRtcLib
+gnss	KEYWORD1	spreGnssRtcLib
 begin	KEYWORD2
 update	KEYWORD2
 setSftPos	KEYWORD2

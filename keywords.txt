@@ -1,0 +1,9 @@
+spreGnssRtcLib	KEYWORD1
+begin	KEYWORD2
+update	KEYWORD2
+setSftPos	KEYWORD2
+getLatitude	KEYWORD2
+getLongitude	KEYWORD2
+isPositionFixed	KEYWORD2
+skyPlot	KEYWORD2
+setDebugMode	KEYWORD2
